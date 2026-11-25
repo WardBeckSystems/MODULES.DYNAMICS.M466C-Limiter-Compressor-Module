@@ -1,5 +1,5 @@
 # 1976 - M466C - DOC - WBSps.ca - 20210317 11X 17 Scans.png
-Wiki page: [Documents](../../../PAGES/Documents.md)
+Wiki page: [Documents](../../../../PAGES/Documents.md)
 
 
 - **Year:** 1976 (found in this ad: "DATE JUNE 76")
@@ -410,7 +410,7 @@ M466C COMPRESSOR LIMITER SCHEMATIC
 
 ```json
 {
- "file": "Modules/DYNAMICS/M466C/1976 - M466C - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
+ "file": "Modules/DYNAMICS/M466C/MANUALS/1976 - M466C - DOC - WBSps.ca - 20210317 11X 17 Scans.png",
  "sha256": "3a5e3174f551946fad7bbd367fed27b2ff404f21d023fbbb914ba2a7ba34ee95",
  "kind": "doc",
  "models": [

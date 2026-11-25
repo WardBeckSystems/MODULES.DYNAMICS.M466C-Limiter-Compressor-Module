@@ -1,5 +1,5 @@
 # 1976 - M466C - compressor limiter 2.jpg
-Wiki page: [M466C](../../../PAGES/M466C.md)
+Wiki page: [M466C](../../../../PAGES/M466C.md)
 
 
 - **Year:** 1976 (module estimate (family))
@@ -26,7 +26,7 @@ Apis
 
 ```json
 {
- "file": "Modules/DYNAMICS/M466C/1976 - M466C - compressor limiter 2.jpg",
+ "file": "Modules/DYNAMICS/M466C/PHOTOS/1976 - M466C - compressor limiter 2.jpg",
  "sha256": "5abae1512b853d4a97d1c96a33f22e0c1b3b201ea0e21a1ac0626b550b6c466c",
  "kind": "module",
  "models": [

@@ -1,0 +1,172 @@
+{
+ "code": "M466C",
+ "connector": "RTO-144",
+ "type": null,
+ "series": null,
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": "M466",
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "INPUT",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "2",
+   "signal": "INPUT",
+   "kind": "in",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "3",
+   "signal": "SHIELD GND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "9",
+   "signal": "COMP TIE   1",
+   "kind": "control",
+   "pair": "B3",
+   "polarity": "-",
+   "confidence": "variant",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M466/M466.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "STEREO TIE",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "11",
+   "signal": "EXTERNAL",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "12",
+   "signal": "EXTERNAL",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "13",
+   "signal": "VU METER",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "15",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "16",
+   "signal": "OUTPUT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "20",
+   "signal": "±COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS GND",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "variant",
+   "read_from": "table",
+   "file": "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf",
+   "page": 50
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Engineering/RTO-144/M466/M466.rto144.json",
+  "Modules/DYNAMICS/M466/MANUALS/1976 - M466 - Compressor - Limiter (2).pdf"
+ ]
+}

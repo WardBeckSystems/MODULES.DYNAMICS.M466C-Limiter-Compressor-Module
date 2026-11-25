@@ -1,5 +1,5 @@
 # 1976 - M466C - lunchbox_small.jpg
-Wiki page: [M466C](../../../PAGES/M466C.md)
+Wiki page: [M466C](../../../../PAGES/M466C.md)
 
 
 - **Year:** 1976 (module estimate (family))
@@ -14,7 +14,7 @@ Wiki page: [M466C](../../../PAGES/M466C.md)
 
 ```json
 {
- "file": "Modules/DYNAMICS/M466C/1976 - M466C - lunchbox_small.jpg",
+ "file": "Modules/DYNAMICS/M466C/PHOTOS/1976 - M466C - lunchbox_small.jpg",
  "sha256": "4ceee91cc10de933b3b0995ac91f8d8670716dc07c42e2665c47bc309af4d1b4",
  "kind": "module",
  "models": [
