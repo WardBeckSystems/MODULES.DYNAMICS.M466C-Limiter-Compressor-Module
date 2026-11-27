@@ -32,6 +32,25 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1z0_cbq75YTTzlFhZGzyBrEdyz0-h-GaN/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1z0_cbq75YTTzlFhZGzyBrEdyz0-h-GaN" width="240" alt="1976 - M466C - DOC - WBSps.ca - 20210317 11X 17 Scans.png"></a><br><sub>1976|9 · DOC - WBSps.ca - 20210317 11X 17 Scans</sub></td></tr>
 </table>
 
+## RTO-144 pinout
+
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
+
+| Pin | Signal | Kind | Port | Confidence |
+|---|---|---|---|---|
+| 1 | INPUT | in | INPUT | high |
+| 2 | INPUT | in | INPUT | high |
+| 3 | INPUT SHIELD GND | shield | INPUT shield | high |
+| 10 | STEREO TIE | control_in | STEREO TIE | high |
+| 12 | EXT VU METER | out | EXT VU METER | high |
+| 13 | EXT VU METER | out | EXT VU METER | high |
+| 15 | OUTPUT | out | OUTPUT | high |
+| 16 | OUTPUT | out | OUTPUT | high |
+| 19 | -25 V | power |  | high |
+| 20 | COMMON | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS GROUND | ground |  | high |
+
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
