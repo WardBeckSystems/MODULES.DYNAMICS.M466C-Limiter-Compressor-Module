@@ -1,6 +1,6 @@
 # M466C Limiter Compressor Module · Dynamics
 
-Ward-Beck Systems M466C, 1976|9. Wiki page: [M466C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M466C.html)
+Ward-Beck Systems M466C, 1976|9. Wiki page: [M466C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.DYNAMICS.M466C-Limiter-Compressor-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

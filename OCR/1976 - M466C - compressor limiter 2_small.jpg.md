@@ -1,5 +1,5 @@
 # 1976 - M466C - compressor limiter 2_small.jpg
-Wiki page: [M466C](../../../../PAGES/M466C.md)
+Wiki page: [M466C](../)
 
 
 - **Year:** 1976 (module estimate (family))
